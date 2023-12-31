@@ -1,4 +1,4 @@
 # Dice-Game
-https://dicegame-sumanta.netlify.app/
+[Live Version](https://dicegame-sumanta.netlify.app/)
 First player to hold 25 points wins.
 Rolling a 1 on dice will reset your points.
